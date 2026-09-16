@@ -6,9 +6,9 @@ using NameSorter.Services;
 namespace NameSorter
 {
     // Entry point for the console application; named to reflect the app's purpose.
-    class NameSorterApp
+    public class NameSorterApp
     {
-        static int Main(string[] args)
+        public static int Main(string[] args)
         {
             if (args.Length == 0)
             {

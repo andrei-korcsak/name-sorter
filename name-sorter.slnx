@@ -2,5 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="name-sorter/bin/Debug/net10.0/name-sorter.exe" />
   </Folder>
+  <Project Path="name-sorter.tests/name-sorter.tests.csproj" />
   <Project Path="name-sorter/name-sorter.csproj" />
 </Solution>
