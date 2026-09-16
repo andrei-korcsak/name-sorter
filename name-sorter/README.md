@@ -8,7 +8,9 @@ SOLID principles.
 ## Build
 From the repository root:
 
+```powershell
 dotnet build
+```
 
 ## Run
 Run the built executable (Debug) from the name-sorter directory:
@@ -31,6 +33,6 @@ Run the built executable (Debug) from the name-sorter directory:
 - Run tests:
 
 ```powershell
-dotnet test .\name-sorter.tests\name-sorter.tests.csproj
+dotnet test
 ```
 
